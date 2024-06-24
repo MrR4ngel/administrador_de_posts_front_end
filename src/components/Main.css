@@ -1,0 +1,34 @@
+.main-container {
+    padding: 20px;
+  }
+  
+  .main-container h2 {
+    margin-bottom: 20px;
+  }
+  
+  .main-container ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .main-container li {
+    border-bottom: 1px solid #ccc;
+    padding: 10px 0;
+  }
+  
+  .main-container li h3 {
+    margin: 0 0 10px 0;
+  }
+  
+  .main-container li button {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
+  .main-container li button:hover {
+    background-color: darkred;
+  }
+  
